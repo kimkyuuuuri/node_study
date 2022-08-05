@@ -21,3 +21,4 @@ console.log(os.freemem());
 //사용 가능한 메모리
 console.log(os.totalmem());
 //전체 메모리 용량
+
